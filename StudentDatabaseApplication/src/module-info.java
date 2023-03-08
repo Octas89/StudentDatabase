@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tavi
+ *
+ */
+module StudentDatabaseApplication {
+}
